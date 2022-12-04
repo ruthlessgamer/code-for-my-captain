@@ -1,0 +1,2 @@
+r=int(input("input the radius of the circle"))
+print("the area of the circle with radius ",r," is ",((4/3)*3.14*r*r))
