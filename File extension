@@ -1,0 +1,3 @@
+Fi=input("enter filename: ")
+F=fi.split(".")
+Print("extension of ",fi," is: ",f[1])
